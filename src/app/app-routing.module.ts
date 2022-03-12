@@ -2,6 +2,8 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { AdminComponent } from './Admin/Admin.component';
 
+
+shubham
 import { LoginComponent } from './login/login.component';
 
 
